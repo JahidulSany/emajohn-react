@@ -1,0 +1,16 @@
+nav.header {
+  background-color: #1C2B35;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 80px;
+}
+
+nav.header a {
+  padding-left: 1.5rem;
+  color: #fff;
+}
+
+nav.header a:hover {
+  color: rgb(200, 100, 19);
+}
